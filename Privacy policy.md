@@ -10,7 +10,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 **Information Collection and Use**
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to mail, advertising ID. The information that we request will be retained by us and used as described in this privacy policy.
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to mail, advertising ID, player id in the promo code database, status activated or not activated personal player id. The information that we request will be retained by us and used as described in this privacy policy.
 
 The app does use third party services that may collect information used to identify you.
 
